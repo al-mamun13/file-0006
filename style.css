@@ -1,0 +1,55 @@
+h1{
+    color: cyan;
+    font-size:50px;
+    background-color: green;
+    text-align: center;
+    border: 40px solid red;
+    border-radius: 80px;
+    text-decoration: underline solid black;
+}
+input[type="password"] {
+    color: red;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+}
+
+input[type="text"]{
+    color: rgba(4, 0, 255, 0.664);
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+    
+}
+.blog{
+    background-color: blue;
+    text-align: center;
+    background-image: url(image/camera-hand.jpg);
+    background-repeat: no-repeat;
+    border:20px solid rgb(51, 255, 0);
+    border-radius:80px;
+    margin:90px;
+    padding: 90px;
+    
+    
+    
+    
+}
+p{
+    font-size: 40px;
+    color: rgb(217, 255, 0);
+
+}
+
+.country{
+    color: rgb(0, 1, 2);
+}
+
+.life{
+
+}
+
+.life2{
+    color: blueviolet;
+    background-color: aqua;
+}
